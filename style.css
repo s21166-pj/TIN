@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(128, 128, 128);
+    background-color: rgba(206, 205, 205, 0.781);
 }
 .container {
     width: 500px;
@@ -103,7 +103,7 @@ div {
 }
   
 .three {
-    color: #57da59;
+    color: #3ba83d;
 }
   
 .four{
